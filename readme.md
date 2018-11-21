@@ -29,3 +29,13 @@ Older computers feel slower mostly because of mechanical drive's (HDD) terrible 
 
 - SSDs (Add links)
 - Batteries (Add links)
+
+## Software
+
+Slow hardware isn't the only reason why everything seems too slow on your PC. Software got way heavier and now even chat apps have loading screens.
+
+Thankfully, some people *do* care about your resources and so should you because wasting all your **time** and your CPU's *power hungry* cycles on a fancy loading animation is absolutely *shameful*.
+
+- Document writing (Add links)
+- Text editors (Add links and rant about Atom)
+- Linux distributions (Add links and rant about Gnome)
